@@ -1,0 +1,24 @@
+{
+  "name": "big-five-personality-test",
+  "version": "1.0.0",
+  "description": "Efficient Personality Assessment with the Big Five Dataset with MindsDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepam-kapur/Big-Five-Personality-Test.git"
+  },
+  "author": "Deepam Kapur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepam-kapur/Big-Five-Personality-Test/issues"
+  },
+  "homepage": "https://github.com/deepam-kapur/Big-Five-Personality-Test#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mindsdb-js-sdk": "^2.2.0"
+  }
+}
